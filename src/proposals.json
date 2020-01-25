@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "name": "Iron Man",
+    "picture": "images/IronMan.jpeg"
+  },
+  {
+    "id": 1,
+    "name": "Captain America",
+    "picture": "images/CaptainAmerica.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Hulk",
+    "picture": "images/Hulk.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Doctor Strange",
+    "picture": "images/DrStrange.jpeg"
+  }
+]
